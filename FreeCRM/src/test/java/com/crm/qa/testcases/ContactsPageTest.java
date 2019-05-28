@@ -56,7 +56,7 @@ public class ContactsPageTest extends TestBase {
 		homePage.clickonNewContactLink();
 		contactsPage.createNewContact(title, firstName, lastName, company);
 		
-		System.out.println("this is git update");
+		
 
 	}
 
